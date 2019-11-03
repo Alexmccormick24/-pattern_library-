@@ -1,1 +1,1 @@
-# -pattern_library-
+# pattern_library
